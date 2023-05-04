@@ -178,7 +178,13 @@ ul {
     height: 50px;
 }
 
-
+.footer{
+    display: flex;
+    font-size: 18px;
+    color: #E5E7EB;
+    justify-content: center;
+    padding: 50px 0;
+}
 .header,.footer,.website-awesome-section{
     background-color: #1F2937;
 }
