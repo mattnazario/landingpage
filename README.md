@@ -8,3 +8,4 @@ https://pixabay.com/photos/puppy-golden-retriever-dog-young-1207816/
 https://pixabay.com/photos/maltese-dog-puppy-small-dog-1123016/
 https://pixabay.com/photos/labrador-retriever-dog-pet-1210559/
 
+Made as part of a project for theodinproject.com
