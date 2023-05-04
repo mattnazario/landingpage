@@ -1,5 +1,47 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
 body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    margin: 0px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: 1000;
+    color: #F9FAF8;
+    margin: 10px;
+}
+
+ul {
+    display:flex;
+    list-style-type: none;
+    gap: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
+.content { 
+
+}
+
+.footer {
+
+}
+
+
+.header,.footer,.website-awesome-section{
+    background-color: #1F2937;
 }
